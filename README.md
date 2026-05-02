@@ -1,16 +1,53 @@
-# React + Vite
+# 🍔 Food Delivery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Food Delivery Web Application** built using **React.js, Tailwind CSS, and HTML**.  
+This project provides a smooth user experience with food browsing, search functionality, category filtering, add-to-cart features, and a clean responsive UI. 
 
-Currently, two official plugins are available:
+## 📌 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Beautiful modern UI design  
+✅ Fully responsive for mobile, tablet, and desktop  
+✅ Search food items instantly  
+✅ Filter dishes by categories  
+✅ Add to cart functionality  
+✅ Remove items from cart  
+✅ Dynamic cart item count  
+✅ Fast React state management using Hooks  
+✅ Clean and reusable component structure  
+✅ Smooth hover effects and transitions  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+| Technology | Usage |
+|-----------|-------|
+| React.js | Frontend Framework |
+| Tailwind CSS | Styling |
+| HTML5 | Structure |
+| JavaScript (ES6) | Logic |
+| React Icons | Icons |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Project Structure
+
+```bash
+Food-Delivery-Website/
+│── src/
+│   ├── components/
+│   │   ├── Nav.jsx
+│   │   ├── Card.jsx
+│   │   └── Cart.jsx
+│   ├── Pages/
+│   │   └── Nick.jsx
+│   ├── Categories.jsx
+│   ├── food.js
+│   ├── App.jsx
+│   └── main.jsx
+│
+│── public/
+│── package.json
+│── tailwind.config.js
+│── README.md
+
