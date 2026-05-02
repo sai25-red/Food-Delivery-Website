@@ -51,3 +51,29 @@ Food-Delivery-Website/
 │── tailwind.config.js
 │── README.md
 
+
+
+
+How It Works
+🔍 Search Bar
+
+Users can search dishes instantly by typing food names.
+
+🍕 Category Filter
+
+Users can browse food by categories like:
+
+Breakfast
+Soups
+Pasta
+Main Course
+Burgers
+
+🛒 Cart System
+
+Users can:
+
+Add dishes
+Remove dishes
+View selected items
+Track total items
