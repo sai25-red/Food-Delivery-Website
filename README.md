@@ -52,7 +52,7 @@ Food-Delivery-Website/
 │── README.md
 
 
-
+-----
 
 How It Works
 🔍 Search Bar
